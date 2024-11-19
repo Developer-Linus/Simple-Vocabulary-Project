@@ -1,0 +1,28 @@
+
+/* changing the font-size of h2 for the specific color headings. */
+.color-title{
+    font-weight: normal;
+}
+
+/* Giving images in the document height and weight for consistency.  */
+img{
+    height: 200px;
+    width: 200px;
+}
+
+/* Using ids so that the heading matches the specific color in the square image. */
+#red{
+    color:red;
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color: orange;
+}
+#green{
+    color:green;
+}
+#yellow{
+    color: yellow;
+}
